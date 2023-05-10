@@ -1,6 +1,8 @@
 ---
 marp: true
 theme: gaia
+class:
+  - invert
 ---
 <!-- _class: lead -->
 # Intro to PDF/A
