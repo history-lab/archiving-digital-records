@@ -27,9 +27,9 @@ theme: gaia
 * Certain PDF forms
 ---
 # PDF/A requires certain optional PDF features
-* Standards based metadata
-* All fonts must be embedded and without IP concerns
-* Colorspces must be specified in a device independent manner
+* Standards-based metadata
+* Fonts must be embedded and without IP concerns
+* Colorspces must be specified in a device-independent manner
 ---
 # PDF/A versions
 | version | published | ISO number | PDF version |
@@ -40,7 +40,7 @@ theme: gaia
 | PDF/A-4 | 2020      | ISO 19005-4| 2.0         |
 
 * older versions are not obsolete!
-    * PDF/A viewer must be backwards compatible
+    * PDF/A viewer must be backward compatible
 ---
 # Generating PDF/A documents
 ---
@@ -56,5 +56,5 @@ theme: gaia
 # References
 * [Library of Congress: PDF/A](https://www.loc.gov/preservation/digital/formats/fdd/fdd000318.shtml)
 * [PDF/A in a Nutshell](https://pdfa.org/resource/pdfa-in-a-nutshell-2-0/)
-* 
+
 
