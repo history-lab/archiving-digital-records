@@ -43,6 +43,13 @@ theme: gaia
     * PDF/A viewer must be backward compatible
 ---
 # Generating PDF/A documents
+* Supported by many PDF creation tools 
+    * commercial, check your library:
+        * Adobe Acrobat Pro 
+        * ABBYY FineReader PDF
+    * [Ghostscript](https://www.ghostscript.com/index.html): open source
+    * Word (version dependent - not Mac!)
+* You can always validate
 ---
 # Validating PDF/A documents
 * checking to see if a document conforms to PDF/A
@@ -50,7 +57,7 @@ theme: gaia
 * [veraPDF](https://verapdf.org/home/) 
     * open source
     * funded by European Commission, industry supported
-* Adobe Acrobat Pro (paid version)
+* Adobe Acrobat Pro
 * review metadata
 ---
 # References
