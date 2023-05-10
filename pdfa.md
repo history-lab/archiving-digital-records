@@ -62,6 +62,15 @@ class:
 * Adobe Acrobat Pro
 * review metadata
 ---
+# Email Archiving in PDF
+* Not part of PDF/A, but related
+* Known originally as EA-PDF, now called PDF/mail
+* Longer term goal: PDF/M ISO standard 
+* Working group exists 
+    * led by Chris Prom, History Lab participates
+    * currently developing technical specification for PDF Mail
+* Learn More [here](https://pdfa.org/presentation/email-archiving-in-pdf/) 
+---
 # References
 * [Library of Congress: PDF/A](https://www.loc.gov/preservation/digital/formats/fdd/fdd000318.shtml)
 * [PDF/A in a Nutshell](https://pdfa.org/resource/pdfa-in-a-nutshell-2-0/)
