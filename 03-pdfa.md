@@ -14,12 +14,23 @@ paginate: true
 * Full replacement for paper
 ---
 # Why PDF/A?
-## goal: long-term reproducibility
+## Goal: long-term reproducibility
 * view regardless of SW/HW changes
 * no file conversions required at later date
 * make documents future proof
 ## $\rightarrow$ document must be self-contained
 * PDF/A is a subset of PDF
+---
+# The National Archives & PDF/A
+It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html) for:
+- Digitized Paper Records  
+- Born-Digital Textual Data
+- Born-Digital Posters
+- Presentation Formats (slide decks)
+---
+# The National Archives & Paper
+By July 2024, Federal agencies must tranfer *all* permanent records in electonic format with metadata.
+
 ---
 # PDF/A forbids certain PDF features
 * JavaScript and executable file launches
@@ -47,7 +58,7 @@ paginate: true
 ---
 # Generating PDF/A documents
 * Supported by many PDF creation tools 
-    * commercial, check your library:
+    * commercial
         * Adobe Acrobat Pro 
         * ABBYY FineReader PDF
     * [Ghostscript](https://www.ghostscript.com/index.html): open source
