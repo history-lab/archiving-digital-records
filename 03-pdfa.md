@@ -21,6 +21,9 @@ paginate: true
 ## $\rightarrow$ document must be self-contained
 * PDF/A is a subset of PDF
 ---
+<!-- _class: lead -->
+# PDF/A as an archival format 
+---
 # The National Archives & PDF/A
 It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html) for:
 - Digitized Paper Records  
@@ -31,6 +34,15 @@ It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt
 # The National Archives & Paper
 By July 2024, Federal agencies must tranfer *all* permanent records in electonic format with metadata.
 
+---
+# Library of Congress & PDF/A
+It's a [preferred or accepted file format](https://www.loc.gov/preservation/resources/rfs/text.html#digital) for:
+- Textual Works - Digital
+- Textual Works - Electronic Serials
+- Musical Scores - Digital
+---
+<!-- _class: lead -->
+# PDF/A characteristics
 ---
 # PDF/A forbids certain PDF features
 * JavaScript and executable file launches
@@ -74,6 +86,9 @@ By July 2024, Federal agencies must tranfer *all* permanent records in electonic
 * Adobe Acrobat Pro
 * review metadata
 ---
+<!-- _class: lead -->
+# Related PDF Standards Work
+---
 # Email Archiving in PDF
 * Not part of PDF/A, but related
 * Known originally as EA-PDF, now called PDF/mail
@@ -83,6 +98,12 @@ By July 2024, Federal agencies must tranfer *all* permanent records in electonic
     * currently developing technical specification for PDF Mail
 * Learn More [here](https://pdfa.org/presentation/email-archiving-in-pdf/) 
 ---
+# PDF/UA (Universal Accessibility)
+* PDF standard for documents that can used by people with disabilities. 
+* Requires specific tags and metadata to provide structural information
+* [Implies conformance](https://www.loc.gov/preservation/digital/formats/fdd/fdd000350.shtml) with PDF/A-2a 
+---
+
 # References
 * [Library of Congress: PDF/A](https://www.loc.gov/preservation/digital/formats/fdd/fdd000318.shtml)
 * [PDF/A in a Nutshell](https://pdfa.org/resource/pdfa-in-a-nutshell-2-0/)
