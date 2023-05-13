@@ -35,4 +35,5 @@ paginate: true
 1. Learn more about PDFs
 2. Get comfortable with the command line
 3. Use tools to produce text analytics
-4. Be more effective on digital humanities (DH) projects
+4. Be a more effective contributor on DH projects
+  * DH = digital humanities
