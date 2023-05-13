@@ -47,7 +47,7 @@ Your own virtual computer running in the cloud with a browser-based interface co
 5. status bar
 ---
 # Codespace Requirements
-* GitHub account
+* Free GitHub account
 * Codespace is free for personal accounts with up to 15 GB storage and 120 processor hours
     * shuts down automatically after a period of disuse
 * On Friday, we'll visit configuring your notebook for the tools you want
