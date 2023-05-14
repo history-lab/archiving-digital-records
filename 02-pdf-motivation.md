@@ -6,11 +6,11 @@ class:
 paginate: true
 ---
 <!-- _class: lead -->
-# Why focus on PDFs?
+# Why PDFs?
 ---
 # Exercise 1
 * What do you think of when you think PDF?
-    * Take two minutes to list the attributes and characteristics of PDFs
+    * List the attributes and characteristics of PDFs (2 minutes)
 ---
 # Ben's List 
 * 21st-century paper
@@ -41,6 +41,15 @@ paginate: true
     * 18 billion PDF documents in DropBox
     * 73 million new PDF documents each day in Google Drive and Mail
 * 1/3 of PDFs are scanned documents 
+---
+<!-- _class: lead -->
+# [What does PDF stand for?](https://youtu.be/Cz55qjW-0bU)
 
+---
+# Answer -
+* PDF stands for Portable Document Format
+* file format
+* goal: faithfully reproduce documents across HW/SW/OS
+---
 
 
