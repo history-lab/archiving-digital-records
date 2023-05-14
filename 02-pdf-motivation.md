@@ -39,7 +39,8 @@ paginate: true
     * PDF is the most popular format in their repositories
     * In many cases, PDF is greater than 50% of files stored
     * 18 billion PDF documents in DropBox
-    * 73 million new PDF documents each day in Google Drive and Mail 
+    * 73 million new PDF documents each day in Google Drive and Mail
+* 1/3 of PDFs are scanned documents 
 
 
 
