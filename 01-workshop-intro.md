@@ -11,8 +11,9 @@ paginate: true
 ---
 # Thanks to our sponsor
 [NEH Institutes for Advanced Topics in the Digital Humanities (IADTH)](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities)
+
 ---
-# And our organtizations....
+# And thanks to our organtizations....
 * [Columbia Libraries](https://library.columbia.edu/)
 * [History Lab](http://history-lab.org)  
 ---
@@ -37,9 +38,9 @@ paginate: true
 1. Learn more about PDFs
 2. Get comfortable with the command line
 3. Be a more effective contributor on DH projects
-  * DH = digital humanities
+   * DH = digital humanities
 4. Understand text analytics tools
-5. Process primary source documents and apply text analytics
+5. Extract text form docs and apply text analytics
 ---
 # Workflow
 Add diagram
