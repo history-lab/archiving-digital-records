@@ -35,7 +35,7 @@ Your own virtual computer running in the cloud with a browser-based interface co
 * an editor
 * a file system 
 ---
-# Codespaces Visual
+# Codespaces Screenshot
 ![width:756px height:512px](https://docs.github.com/assets/cb-399834/mw-1440/images/help/codespaces/codespace-overview-annotated.webp)
 
 ---
