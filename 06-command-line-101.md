@@ -203,16 +203,12 @@ PDF version:    1.7
 `pdftotext mueller.pdf`
 * Try `ls`
 
-
-
----
-
 ---
 # Exercises
-1. We should keep keep our txt (i.e. text) files separate from our PDFs. Create a new directory at the same directory level as `pdfs` called `txt`. Move `mueller.txt` to your newly created `txt` subdirectory.
+1. Create a new directory at the same directory level as `pdfs` called `txt`. Move `mueller.txt` to your newly created `txt` subdirectory.
 
 2. How can we ensure output generated from `pdftotext` goes to the `txt` directory going forward?
 
 3. Test out some of the flags on both `pdfinfo` and `pdftotext`. Try to find something worth discussing.
 
-4. Download/upload another PDF - something that interests. Run both `pdfinfo` and `pdftotext`. How's the text quality? 
+4. Load another PDF into codespace - something that interests you. Run both `pdfinfo` and `pdftotext`. How's the text quality? 
