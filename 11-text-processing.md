@@ -8,8 +8,6 @@ paginate: true
 <!-- _class: lead -->
 # Text processing
 ---
-# Doing Digital History
----
 # grep
 ---
 # regular expressions
