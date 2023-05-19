@@ -8,6 +8,12 @@ paginate: true
 <!-- _class: lead -->
 # Text Analytics 101
 ---
+# Corpus
+* corpus: set of related documents
+* plural form: corpora
+* 
+
+---
 # Text Analytics Defined
 * Mostly about quantification (e.g. word counting)
 * Augment reading vs replacing it        
