@@ -8,8 +8,4 @@ paginate: true
 <!-- _class: lead -->
 # Text processing
 ---
-# grep
----
-# regular expressions
----
-# pipe
+
