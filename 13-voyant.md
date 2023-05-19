@@ -77,6 +77,7 @@ Point browser at https://voyant-tools.org/ and
 
 4. Export a iframe, URL, data or a visualization from one of the tools and use it one of your every day tools.
 ---
-# Other Useful links
+# References
 * [Online documentation](http://docs.voyant-tools.org/docs/#!/guide)
 * [Gallery](https://voyant-tools.org/docs/#!/guide/gallery) examples of Voyant usage in research and teaching
+* [Finding & preparing text files](https://voyanttools.github.io/hermeneutica/finding-preparing-text.htm) process, resources and guidance from a Voyant perspective
