@@ -22,7 +22,7 @@ paginate: true
 * Excellent glossary & references
 * Good coverage of OCR issues
 ---
-# Worthwhile quotes
+# Noteable quotes
 ---
 # Exercises 
 1. Find the book's GitHub repo
