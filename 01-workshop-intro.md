@@ -13,7 +13,7 @@ paginate: true
 [NEH Institutes for Advanced Topics in the Digital Humanities (IADTH)](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities)
 
 ---
-# And thanks to our organtizations....
+# And thanks to our organizations
 * [Columbia Libraries](https://library.columbia.edu/)
 * [History Lab](http://history-lab.org)  
 ---
@@ -30,7 +30,7 @@ paginate: true
   * combo of lecture & exercises
   * breaks every hour
 * 12:00 PM - 12:30 PM: Break
-* 12:30 PM - 02:30 PM: Lunch, Speaker and Discussion
+* 12:30 PM - 02:30 PM: Lunch, Speaker, and Discussion
 ---
 # Introductions
 * Name
@@ -43,9 +43,9 @@ paginate: true
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
 4. Extract text form docs and apply text analytics
-5. Be a more effective contributor on DH projects
+5. Be a more effective contributor on DH/IT projects
    * DH = digital humanities
-6. Gain awareness of shortcomings & pitfalls of tools & techniques
+6. Gain awareness of shortcomings & pitfalls
 ---
 # Target Processing Workflow
 ![height:480px width:640px](./static/target-processing-workflow.png)
@@ -53,6 +53,6 @@ paginate: true
 ---
 # Technical Sessions: Pls keep in mind
 * Inaugural voyage
-* Mind the firehouse
-* Ben is not archivist or historian, he's a technical person
-* Active participation welcome
+* Active, point-in-time participation welcome
+* The firehouse
+* Ben is not an archivist or historian, he's a technical person
