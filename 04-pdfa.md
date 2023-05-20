@@ -14,11 +14,11 @@ paginate: true
 * Full replacement for paper
 ---
 # Why PDF/A?
-## Goal: long-term reproducibility
-* view regardless of SW/HW changes
+### Goal: long-term reproducibility
+* view regardless of SW/HW/platform changes
 * no file conversions required at later date
 * make documents future proof
-## $\rightarrow$ document must be self-contained
+### $\rightarrow$ document must be self-contained
 * PDF/A is a subset of PDF
 ---
 <!-- _class: lead -->
@@ -36,7 +36,7 @@ By July 2024, Federal agencies must tranfer *all* permanent records in electonic
 
 ---
 # Library of Congress & PDF/A
-It's a [preferred or accepted file format](https://www.loc.gov/preservation/resources/rfs/text.html#digital) for:
+It's a [preferred or accepted file format](https://www.loc.gov/preservation/resources/rfs/TOC.html) for:
 - Textual Works - Digital
 - Textual Works - Electronic Serials
 - Musical Scores - Digital
@@ -78,13 +78,13 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 * You can always validate
 ---
 # Validating PDF/A documents
-* checking to see if a document conforms to PDF/A
+* Checking to see if a document is PDF/A compliant
     * version and conformance level checks
 * [veraPDF](https://verapdf.org/home/) 
     * open source
     * funded by European Commission, industry supported
 * Adobe Acrobat Pro
-* review metadata
+* Query metadata (not guaranteed)
 ---
 <!-- _class: lead -->
 # Related PDF Standards Work
@@ -103,9 +103,12 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 * Requires specific tags and metadata to provide structural information
 * [Implies conformance](https://www.loc.gov/preservation/digital/formats/fdd/fdd000350.shtml) with PDF/A-2a 
 ---
-
 # References
 * [Library of Congress: PDF/A](https://www.loc.gov/preservation/digital/formats/fdd/fdd000318.shtml)
 * [PDF/A in a Nutshell](https://pdfa.org/resource/pdfa-in-a-nutshell-2-0/)
 
+---
+# Discussion
+* PDF/A in your institution
+* PDF/A personal experiences
 
