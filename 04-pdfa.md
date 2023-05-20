@@ -15,14 +15,14 @@ paginate: true
 ---
 # Why PDF/A?
 ### Goal: long-term reproducibility
-* view regardless of SW/HW/platform changes
-* no file conversions required at later date
-* make documents future proof
+* View regardless of SW/HW/platform changes
+* No file conversions required at later date
+* Make documents future proof
 ### $\rightarrow$ document must be self-contained
 * PDF/A is a subset of PDF
 ---
 <!-- _class: lead -->
-# PDF/A as an archival format 
+# PDF/A & Memory Institutions
 ---
 # The National Archives & PDF/A
 It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html) for:
@@ -32,7 +32,7 @@ It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt
 - Presentation Formats (slide decks)
 ---
 # The National Archives & Paper
-By July 2024, Federal agencies must tranfer *all* permanent records in electonic format with metadata.
+By July 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
 
 ---
 # Library of Congress & PDF/A
@@ -70,7 +70,7 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 ---
 # Generating PDF/A documents
 * Supported by many PDF creation tools 
-    * commercial
+    * Commercial:
         * Adobe Acrobat Pro 
         * ABBYY FineReader PDF
     * [Ghostscript](https://www.ghostscript.com/index.html): open source
@@ -95,11 +95,11 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 * Longer term goal: PDF/M ISO standard 
 * Working group exists 
     * led by Chris Prom, History Lab participates
-    * currently developing technical specification for PDF Mail
+    * currently developing the technical specification for PDF Mail
 * Learn More [here](https://pdfa.org/presentation/email-archiving-in-pdf/) 
 ---
 # PDF/UA (Universal Accessibility)
-* PDF standard for documents that can used by people with disabilities. 
+* Standard so that people with disabilities can read PDF documents  
 * Requires specific tags and metadata to provide structural information
 * [Implies conformance](https://www.loc.gov/preservation/digital/formats/fdd/fdd000350.shtml) with PDF/A-2a 
 ---
