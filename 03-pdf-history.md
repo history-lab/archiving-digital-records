@@ -24,7 +24,7 @@ paginate: true
 * Goal: to exchange formatted documents between computers
    * "...to view a file precisely—down to the pixel, essentially, of what the author had intended" - John Wulff, Adobe
 * Why not use PostScript?
-   * Too resource consumptive for the typical 90s personal computer!
+   * Too resource-consumptive for the typical 90s personal computer!
 * [Reference](https://www.pdfa.org/norm-refs/warnock_camelot.pdf) John Warnock's project description
 
 ---
