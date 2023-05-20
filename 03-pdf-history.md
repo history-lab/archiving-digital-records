@@ -17,7 +17,7 @@ paginate: true
     * describes what to print
     * full programming language
 * Desktop publishing revolution is born
-* [Intersting read](https://computerhistory.org/blog/postscript-a-digital-printing-press/) on this period
+* [Interesting read](https://computerhistory.org/blog/postscript-a-digital-printing-press/) on this period
 ---
 # Early History: Camelot Project (1990)
 * PDF conceived
