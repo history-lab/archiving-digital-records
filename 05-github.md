@@ -8,10 +8,6 @@ paginate: true
 <!-- _class: lead -->
 # Getting started with GitHub Codespaces (and GitHub)
 ---
-<!-- _class: lead -->
-# A course objective:
-## To get comfortable on the command line
----
 # Why not use our notebooks?
 * You can access the command line on your notebook
 * But it's a bit different on Windows/Mac/Linux
