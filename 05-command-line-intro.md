@@ -12,3 +12,10 @@ paginate: true
 # A course objective:
 ## To get comfortable on the command line
 ### But why?
+---
+# Why learn the command line?
+---
+# So, what is the command line?
+---
+# Exercise
+
