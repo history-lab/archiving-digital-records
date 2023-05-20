@@ -43,7 +43,7 @@ paginate: true
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
 4. Extract text form docs and apply text analytics
-5. Be a more effective contributor on DH/IT projects
+5. Be a more effective contributor to DH/IT projects
    * DH = digital humanities
 6. Gain awareness of shortcomings & pitfalls
 ---
@@ -55,4 +55,4 @@ paginate: true
 * Inaugural voyage
 * Active, point-in-time participation welcome
 * The firehouse
-* Ben is not an archivist or historian, he's a technical person
+* Ben is not an archivist or historian. He's a technical person
