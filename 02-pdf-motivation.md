@@ -8,9 +8,28 @@ paginate: true
 <!-- _class: lead -->
 # Why PDFs?
 ---
-# Exercise 1
+<!-- _class: lead -->
+# Motivating questions
+---
+# Question 1
+* What does PDF stand for?
+---
+# Question 2
 * What do you think of when you think PDF?
     * List the attributes and characteristics of PDFs (2 minutes)
+---
+# Question 3
+* How many PDFs are in existence?
+    * Rough guess
+---
+<!-- _class: lead -->
+# Answers (No Peeking, please!)
+---
+# What does PDF stand for?
+* PDF stands for Portable Document Format
+* Adobe [video](https://youtu.be/Cz55qjW-0bU)
+* file format
+* goal: faithfully reproduce documents across HW/SW/OS
 ---
 # Ben's List 
 * 21st-century paper
@@ -21,14 +40,10 @@ paginate: true
 * Adobe $\rightarrow$ ISO
 * Data extraction challenges 
 ---
-# Exercise 2
-* How many PDFs are in existence?
-    * What's your rough guess?
----
 # Number of PDFs in existence
 * Nobody knows for sure
-* Most widely cited estimated: 2.5 Trillion
-    * Back-of-the-envelope calculation, likely a floor
+* Most widely cited estimate: 2.5 Trillion
+    * Conservative back-of-the-envelope calculation
 * Source: Phil Ydens, Fellow and VP @ Adobe (2015 talk)
     * 2015 keynote talk (https://www.youtube.com/watch?v=5Axw6OGPYHw), starting at 19:40
 ---
@@ -36,20 +51,11 @@ paginate: true
 * 1.6 billion PDF documents on the web
 * 60% of non-image Outlook attachments are PDFs
 * Cloud storage providers
-    * PDF is the most popular format in their repositories
-    * In many cases, PDF is greater than 50% of files stored
+    * PDF is the most popular format
+    * Many cases, PDF > 50% of files stored
     * 18 billion PDF documents in DropBox
     * 73 million new PDF documents each day in Google Drive and Mail
-* 1/3 of PDFs are scanned documents 
----
-<!-- _class: lead -->
-# [What does PDF stand for?](https://youtu.be/Cz55qjW-0bU)
+* 1/3 of PDFs are scanned documents! 
 
----
-# Answer -
-* PDF stands for Portable Document Format
-* file format
-* goal: faithfully reproduce documents across HW/SW/OS
----
 
 
