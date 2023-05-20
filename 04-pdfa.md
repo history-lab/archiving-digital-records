@@ -16,7 +16,7 @@ paginate: true
 # Why PDF/A?
 ### Goal: long-term reproducibility
 * View regardless of SW/HW/platform changes
-* No file conversions required at later date
+* No file conversions are required at a later date
 * Make documents future proof
 ### $\rightarrow$ document must be self-contained
 * PDF/A is a subset of PDF
