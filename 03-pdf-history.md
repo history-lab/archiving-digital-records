@@ -14,7 +14,8 @@ paginate: true
 * Laser Printer
 * 1982: Adobe founded 
 * Postscript - page description lanaguage (PDL)
-    * computer tells laser printer what to print
+    * describes what to print
+    * full programming language
 * Desktop publishing revolution is born
 * [Intersting read](https://computerhistory.org/blog/postscript-a-digital-printing-press/) on this period
 ---
@@ -23,7 +24,7 @@ paginate: true
 * Goal:  the ability to exchange formatted documents between computer systems
    * "...to view a file precisely—down to the pixel, essentially, of what the author had intended." - John Wulff, Adobe
 * Why not use PostScript?
-   * Too resource consumptive for the typical 1990s computer?
+   * Too resource consumptive for the typical early 90s computer!
 * [Reference](https://www.pdfa.org/norm-refs/warnock_camelot.pdf) John Warnock's project description
 
 ---
@@ -43,11 +44,16 @@ paginate: true
 # PDF's Adolescence
 * 1996-2004 
 * PDF becomes de facto standard for the web
-* Versions 1.2-1.7 released
+* Versions 1.2-1.6 released
 ---
 # PDF's Adulthood
 * 2005: PDF/A-1, version of PDF for archiving
 * 2008: PDF becomes an ISO standard (ISO 32000)
    * ISO: Internatinal Organization for Standardization
 * 2017: Version 2.0 released
+* 2020: Version 2.0 updated
+---
+# PDF Standards
+* [Version 2.0](https://pdfa.org/sponsored-standards/): 2020, 1003 pages, registration required
+* [Version 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf): 2008, 756 pages
   
