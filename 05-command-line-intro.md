@@ -18,4 +18,4 @@ paginate: true
 # So, what is the command line?
 ---
 # Exercise
-
+* Sign up for a GitHub account [here](https://github.com/join) if you don't already have one
