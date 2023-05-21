@@ -19,12 +19,12 @@ paginate: true
 3. Choose a more suitable name (e.g. Archiving-Digital-Records)
 4. Go back to the menu and select "Keep Codespace"
 ---
-# Accessing the command line (terminal)
+# Accessing the command line
 1. Return to the codespace tab
 2. In the terminal window type `ps`
     * show the processes currently running in the terminal
 ---
-# Cloning the slides repo
+# Cloning the workshop repo
 Type the following on the command line:
 
  `git clone https://github.com/history-lab/archiving-digital-records.git`
@@ -42,63 +42,68 @@ Resolving deltas: 100% (60/60), done.
 * `git` tracks collections of files, usually project related
 * repo (aka repository): collection of files under git control
 * repo contains the latest version of files, but also all previous versons
-* `clone` a git command that you can think of as a copy command + tracking info
-
-
+* `clone` a git command that you can think of as "copy files + tracking info"
 ---
-# Navigating the filesystem using Explorer & Editor
-1. Click on `06-command-line-101.md`
+### Navigating the filesystem using Explorer & Editor
+1. Click on `07-command-line-lab.md`
 2. Review the "code" for the slide
 3. Click on `Open Preview for the Slide` - RHS of editor window
 4. Control (right) click on a filename to see actions
 ---
-# pwd & ls commands
-1. Note that terminal's current working directory is part of the command line prompt
+### Navigating the filesystem from the command line
+1. The terminal's current working directory is part of the command line prompt
     * use can also use the `pwd` command to see it
 2. List the files in a directory: `ls`
 3. See more details: `ls -l`
 4. Include hidden files: `ls -la`
 ---
+# Changing directories
+* `pwd`: present (i.e., current) working directory
+*  `cd archiving-digital-records` 
+*  `cd -` change pwd to previous directory
+*  time saver: use <tab> key to autocomplete file names 
+---
 # Commands in general
-* commands = programs
-* built-in and user defined
+* Commands = Programs
+* Built-in and user defined
 * Unix (and Linux) origins
-* flags and arguments
+* Flags and arguments
+    * CLI (command line interface)
+    * far simpler than building a GUI
+    * largely eliminates cross-platform concerns
 ---
 # Command flag
-* example: `-l` in `ls -l` 
-* modify default command behavior
-* begins with a `-`
-* sometimes called option
+* Example: `-l` in `ls -l` 
+* Modify default command behavior
+* Enable/disable certain feature
+* Begins with a `-`
+* Sometimes called an option
    * esp. if it accepts arguments
 ---
 # Command argument
-* exammple: `README.md` in `ls -l README.md` 
-* modifies default command behavior
-* sometimes called option
-   * esp. if it accepts arguments
----
-# Learning more about a command
-* man command (e.g. `man ls`)
-* Google
-* chatGPT and variants
----
-# Follow [xkcd 627](https://xkcd.com/627/)'s flowchart
-![height:512px width:512px](https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png)
+* Example: `README.md` in `ls -l README.md` 
+* Modifies default command behavior
+* Specifies file or data to be enacted on
 
 ---
-# Changing directories
-* pwd: present (i.e., current) working directory
-*  `cd archiving-digital-records` change pwd to named directory
-*  `cd -` change pwd to previous directory
+# Learning more about a command
+* On the command line -
+    * `man ls` brings up the manual page
+    * `which ls` which program is running 
+* On the web -
+    * Google, StackOverflow
+    * chatGPT and variants
+---
+# [xkcd 627](https://xkcd.com/627/)'s flowchart
+![height:512px width:512px](https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png)
 
 ---
 # Viewing files
 * `cat README.md`
-* `less 06-command-line-101.md`
-    * Use less for bigger files
-    * Navigation options: <return>, <space>, b, h
-    * Use `man less` if you forget
+* `less 07-command-line-lab.md`
+    * use less for bigger files
+    * navigation options: <return>, <space>, b, h
+    * use `man less` if you forget
 ---
 # Creating a directory
 * Create a directory for the PDFs we are going to experiment on
@@ -128,14 +133,14 @@ Do you want to continue? [Y/n]
 ```
 ---
 # Understanding software installs `sudo`
-* stands for "superuser do"
-* runs the commands that follow as superuser 
-* superuser is a privilaged administrative account 
-* software installs typically require a privilaged account
+* Stands for "superuser do"
+* Runs the commands that follow as superuser 
+* Superuser is a privilaged administrative account 
+* Software installs typically require a privilaged account
 ---
 # Understanding software installs `apt-get`
-* software installer
-* accepts subcommands such as:
+* Software installer
+* Accepts subcommands such as:
      * `update`  update the package lists for available software packages 
      * `install` install or upgrade packages
 ---
