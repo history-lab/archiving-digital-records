@@ -8,21 +8,6 @@ paginate: true
 <!-- _class: lead -->
 # Getting started with GitHub Codespaces (and GitHub)
 ---
-# Why not use our notebooks?
-* You can access the command line on your notebook
-* But it's a bit different on Windows/Mac/Linux
-    * differences have decreased over the years
-    * but still exist, even across different OS versions
-* Different notebooks: different memory, disk space, SW
-* Friction impairs the initial learning experience
----
-# Why GitHub Codespaces?
-* Solves friction problem
-* Everybody gets an individual but identical environment
-* Don't need to install SW on notebook
-* Get exposure to GitHub and cloud computing
-* Gateway to further training with [LinkedIn Learning](https://www.linkedin.com/learning/topics/hands-on-practice-with-github-codespaces)
----
 # What is GitHub Codespaces?
 A cloud-based software development environment
 ### Alternate definition for our workshop -
@@ -46,7 +31,7 @@ Your own virtual computer running in the cloud with a browser-based interface co
 * Free GitHub account
 * Codespace is free for personal accounts with up to 15 GB storage and 120 processor hours
     * shuts down automatically after a period of disuse
-* On Friday, we'll visit configuring your notebook for the tools you want
+
 ---
 # So what is GitHub?
 In addition to Codespaces, which is a fairly new and small part of GitHub - 
