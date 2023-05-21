@@ -6,7 +6,7 @@ class:
 paginate: true
 ---
 <!-- _class: lead -->
-# Command line 101
+# Command line lab
 ---
 # Creating a codespace
 1. Point your browser at the [codespaces dashboard](https://github.com/codespaces)
@@ -24,25 +24,6 @@ paginate: true
 2. In the terminal window type `ps`
     * show the processes currently running in the terminal
 ---
-# What is bash?
-1. command-line shell
-2. command language
-3. Originally writen for Unix but now available on Windows/Mac/Linux 
----
-# What is a shell?
-A computer program that provides an interface between the user and the operating system
-![height:384px width:288px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgL8vVGby133vx9tQBjKyZ24VdkDrnlNdWRdwRg6EBjCYHzaa5ckhI7up6YthQAal7Yag&usqp=CAU)
-
----
-# What is a command-line shell?
-A shell where the user inputs commands via keyboard and receives text output
-
-![height:384px width:288px](https://upload.wikimedia.org/wikipedia/commons/8/84/Bash_demo.png)
----
-# What is a command language
-A programming langaguage for automating command line tasks
-
-----
 # Cloning the slides repo
 Type the following on the command line:
 
@@ -56,7 +37,6 @@ remote: Enumerating objects: 116, done.
 .
 Resolving deltas: 100% (60/60), done.
 ```
-
 ---
 # Understanding what we just did
 * `git` tracks collections of files, usually project related
