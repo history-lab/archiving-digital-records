@@ -16,6 +16,25 @@ paginate: true
 ---
 # So, what is the command line?
 ---
+# What is bash?
+1. command-line shell
+2. command language
+3. Originally writen for Unix but now available on Windows/Mac/Linux 
+---
+# What is a shell?
+A computer program that provides an interface between the user and the operating system
+![height:384px width:288px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgL8vVGby133vx9tQBjKyZ24VdkDrnlNdWRdwRg6EBjCYHzaa5ckhI7up6YthQAal7Yag&usqp=CAU)
+---
+# What is a command-line shell?
+A shell where the user inputs commands via keyboard and receives text output
+
+![height:384px width:288px](https://upload.wikimedia.org/wikipedia/commons/8/84/Bash_demo.png)
+---
+# What is a command language
+A programming langaguage for automating command line tasks
+
+
+---
 # Your computer and the command line
 * You can access the command line on your notebook
 * But it's a bit different on Windows/Mac/Linux
