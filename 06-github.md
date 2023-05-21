@@ -6,7 +6,8 @@ class:
 paginate: true
 ---
 <!-- _class: lead -->
-# Getting started with GitHub Codespaces (and GitHub)
+# GitHub Codespaces 
+## (and a bit about GitHub and Git)
 ---
 # What is GitHub Codespaces?
 A cloud-based software development environment
@@ -21,10 +22,10 @@ Your own virtual computer running in the cloud with a browser-based interface co
 
 ---
 # Codespaces Visual - Key
-1. file system view (side bar)
-2. toggle filespace (activity bar)
-3. editor
-4. command line/terminal (panels)
+1. file system view 
+2. activity bar
+3. text editor
+4. command line/terminal
 5. status bar
 ---
 # Codespace Requirements
