@@ -15,13 +15,13 @@ paginate: true
 ---
 # Renaming and saving your codespace
 1. Return to the codespaces dashboard tab
-2. In *Owned by* press the menu button `...` for the newly created codespace and select "Rename"
-3. Choose a more suitable name (e.g. Archiving-Digital-Records)
+2. In *Owned by*, press the menu button `...` for the newly created codespace and select "Rename"
+3. Choose a more suitable name (e.g., Archiving-Digital-Records)
 4. Go back to the menu and select "Keep Codespace"
 ---
 # Accessing the command line
 1. Return to the codespace tab
-2. In the terminal window type `ps`
+2. In the terminal window, type `ps`
     * show the processes currently running in the terminal
 ---
 # Cloning the workshop repo
@@ -40,14 +40,14 @@ Resolving deltas: 100% (60/60), done.
 ---
 # Understanding what we just did
 * `git` tracks collections of files, usually project related
-* repo (aka repository): collection of files under git control
-* repo contains the latest version of files, but also all previous versons
+* repo (aka repository): a collection of files under git control
+* repo contains the latest version of files, but also all previous versions
 * `clone` a git command that you can think of as "copy files + tracking info"
 ---
 ### Navigating the filesystem using Explorer & Editor
 1. Click on `07-command-line-lab.md`
 2. Review the "code" for the slide
-3. Click on `Open Preview for the Slide` - RHS of editor window
+3. Click on `Open Preview for the Slide` - RHS of the editor window
 4. Control (right) click on a filename to see actions
 ---
 ### Navigating the filesystem from the command line
@@ -60,12 +60,12 @@ Resolving deltas: 100% (60/60), done.
 # Changing directories
 * `pwd`: present (i.e., current) working directory
 *  `cd archiving-digital-records` 
-*  `cd -` change pwd to previous directory
+*  `cd -` change pwd to the previous directory
 *  time saver: use <tab> key to autocomplete file names 
 ---
 # Commands in general
 * Commands = Programs
-* Built-in and user defined
+* Built-in and user-defined
 * Unix (and Linux) origins
 * Flags and arguments
     * CLI (command line interface)
@@ -75,7 +75,7 @@ Resolving deltas: 100% (60/60), done.
 # Command flag
 * Example: `-l` in `ls -l` 
 * Modify default command behavior
-* Enable/disable certain feature
+* Enable/disable a particular feature
 * Begins with a `-`
 * Sometimes called an option
    * esp. if it accepts arguments
@@ -83,7 +83,7 @@ Resolving deltas: 100% (60/60), done.
 # Command argument
 * Example: `README.md` in `ls -l README.md` 
 * Modifies default command behavior
-* Specifies file or data to be enacted on
+* Specifies input file(s) or data
 
 ---
 # Learning more about a command
@@ -115,18 +115,18 @@ Resolving deltas: 100% (60/60), done.
 
 * "client for URLs"
 
-*  To download the Mueller Report PDF from the DOJ website, type this on command line and press return:
+*  To download the Mueller Report PDF from the DOJ website, type this on the command line and press return:
 
 `curl -o mueller.pdf https://www.justice.gov/archives/sco/file/1373816/download`
 
 ---
 # Installing software 
-Note: the exact commands for installing software differs somewhat across OSs 
+Note: the exact commands for installing software differ somewhat across OSs 
 
 1. Type on the command line and press return:
 `sudo apt-get update`
 2. `sudo apt-get install poppler-utils`
-3. Answer `Y` to question:
+3. Answer `Y` to the question:
 ```
 After this operation, 17.2 MB of additional disk space will be used.
 Do you want to continue? [Y/n]
@@ -135,8 +135,8 @@ Do you want to continue? [Y/n]
 # Understanding software installs `sudo`
 * Stands for "superuser do"
 * Runs the commands that follow as superuser 
-* Superuser is a privilaged administrative account 
-* Software installs typically require a privilaged account
+* Superuser is a privileged administrative account 
+* Software installs typically require a privileged account
 ---
 # Understanding software installs `apt-get`
 * Software installer
@@ -145,15 +145,15 @@ Do you want to continue? [Y/n]
      * `install` install or upgrade packages
 ---
 # What is `poppler-utils`?
-* name of the software packaged we are installing 
-* a set of command-line programs for processing PDFs
-* we will intially focus on two:
+* Name of the software package we are installing 
+* A set of command-line programs for processing PDFs
+* We will initially focus on two:
     * `pdfinfo`
     * `pdftotext` 
 ---
 # `pdfinfo` 
 * Shows a PDF's metadata
-* From your `pdfs` subdirectory enter the following at the command line and press return:
+* From your `pdfs` subdirectory, enter the following at the command line and press return:
 `pdfinfo mueller.pdf`
 ---
 # `pdfinfo` output:
@@ -184,7 +184,7 @@ PDF version:    1.7
 ---
 # `pdftotext`
 * Extracts text from a PDF
-* From your pdfs subdirectory enter the following at the command line and press return:
+* From your pdfs subdirectory, enter the following at the command line and press return:
 `pdftotext mueller.pdf`
 * Try `ls`
 
@@ -192,8 +192,8 @@ PDF version:    1.7
 # Exercises
 1. Create a new directory at the same directory level as `pdfs` called `txt`. Move `mueller.txt` to your newly created `txt` subdirectory.
 
-2. How can we ensure output generated from `pdftotext` goes to the `txt` directory going forward?
+2. How can we ensure output generated from `pdftotext` goes to the `txt` directory in the future?
 
-3. Test out some of the flags on both `pdfinfo` and `pdftotext`. Try to find something worth discussing.
+3. Test some flags on both `pdfinfo` and `pdftotext`. Find something worth discussing.
 
 4. Load another PDF into codespace - something that interests you. Run both `pdfinfo` and `pdftotext`. How's the text quality? 
