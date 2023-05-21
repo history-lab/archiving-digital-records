@@ -25,7 +25,7 @@ paginate: true
 # OK, what is the command line?
 * Textual interface to the computer
 * User inputs commands via keyboard and receives text output
-* "command line" and "terminal" used interchangeably
+* "command line" and "terminal" are used interchangeably
 
 ![height:256px width:384px](static/command-line.png)
 
@@ -46,14 +46,14 @@ paginate: true
 ---
 # Your notebook and the command line
 * You can access the command line on your notebook
-* Differences (typically small) across platform and versions
+* Differences (typically minor) across platforms and versions
 * Different notebooks: different memory, disk space, SW versions
 * Good chance of idiosyncratic issues arising 
      * especially when installing software
 * Impairs the initial learning experience
 ---
 # GitHub Codespaces for the exercises
-* Eliminates issues descibed on the previous slide 
+* Eliminates issues described on the previous slide 
 * Everybody gets an individual but identical environment
 * Don't need to install SW on notebook
 * Get exposure to GitHub and cloud computing
@@ -62,7 +62,7 @@ paginate: true
 ---
 # Tasks
 * Sign up for a GitHub account [here](https://github.com/join) if you don't already have one
-* (Optional) If you haven't already sign up for access to one of:
+* (Optional) If you haven't already signed up for access to one of:
     * chatGPT
     * Bing Chat
     * Google Bard
