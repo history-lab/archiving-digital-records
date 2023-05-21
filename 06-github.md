@@ -34,7 +34,7 @@ Your own virtual computer running in the cloud with a browser-based interface co
     * shuts down automatically after a period of disuse
 
 ---
-# So what is GitHub?
+# So, what is GitHub?
 In addition to Codespaces, which is a fairly new and small part of GitHub - 
 * **Original and main function:**  platform for storing, distributing, collaborating on, and deploying code
 * Developer-oriented social media network
