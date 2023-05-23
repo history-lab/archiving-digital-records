@@ -9,7 +9,7 @@ paginate: true
 # (Some) PDF Pitfalls
 ---
 # Mueller Report
-Three part series from the PDF Association
+Three-part series from the PDF Association
 1. [A Technical and Cultural Assessment of the Mueller Report PDF](https://pdfa.org/a-technical-and-cultural-assessment-of-the-mueller-report-pdf/) 2019-04-19
 2. [Even with OCR, the Mueller Report PDF isn't fully searchable](https://pdfa.org/even-with-ocr-the-mueller-report-pdf-isnt-fully-searchable/) 2019-04-20
 3. [DoJ reposts the Mueller Report!](https://pdfa.org/doj-reposts-the-mueller-report/)
@@ -28,5 +28,5 @@ Three part series from the PDF Association
 
 ---
 # Exercises
-1. Does the metadata in the newer PDF, which we downloaded, indicate that it is PDF/A compliant?
-2. Do some of the searchability issues in the early PDFs versions still exist in the newer PDF?
+1. Does the metadata in the newer PDF we downloaded indicate that it is PDF/A compliant?
+2. Do some of the searchability issues in the earlier PDFs still exist in the one we downloaded?
