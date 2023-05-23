@@ -22,8 +22,6 @@ paginate: true
 * Excellent glossary & references
 * Good coverage of OCR issues
 ---
-# Noteable quotes
----
 # Exercises 
 1. Find the book's GitHub repo
 2. Clone it into your workspace
