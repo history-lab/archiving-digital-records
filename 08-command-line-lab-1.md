@@ -29,7 +29,7 @@ Resolving deltas: 100% (60/60), done.
 * `clone` a git command that you can think of as "copy files + tracking info"
 ---
 ### Navigating the filesystem using Explorer & Editor
-1. Click on `07-command-line-lab.md`
+1. Click on `08-command-line-lab-1.md`
 2. Review the "code" for the slide
 3. Click on `Open Preview for the Slide` - RHS of the editor window
 4. Control (right) click on a filename to see actions
@@ -49,7 +49,7 @@ Resolving deltas: 100% (60/60), done.
 ---
 # Viewing files
 * `cat README.md`
-* `less 07-command-line-lab.md`
+* `less 08-command-line-lab-1.md`
     * use less for bigger files
     * navigation options: <return>, <space>, b, h
     * use `man less` if you forget
