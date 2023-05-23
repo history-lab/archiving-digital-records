@@ -35,13 +35,13 @@ After this operation, 17.2 MB of additional disk space will be used.
 Do you want to continue? [Y/n]
 ```
 ---
-# Understanding software installs `sudo`
+# Understanding software installs: `sudo`
 * Stands for "superuser do"
 * Runs the commands that follow as superuser 
 * Superuser is a privileged administrative account 
 * Software installs typically require a privileged account
 ---
-# Understanding software installs `apt-get`
+# Understanding software installs: `apt-get`
 * Software installer
 * Accepts subcommands such as:
      * `update`  update the package lists for available software packages 
@@ -53,6 +53,7 @@ Do you want to continue? [Y/n]
 * We will initially focus on two:
     * `pdfinfo`
     * `pdftotext` 
+* [Description](https://en.wikipedia.org/wiki/Poppler_(software)#poppler-utils) of all
 ---
 # `pdfinfo` 
 * Shows a PDF's metadata
