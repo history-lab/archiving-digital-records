@@ -6,7 +6,7 @@ class:
 paginate: true
 ---
 <!-- _class: lead -->
-# PDF Pitfalls
+# (Some) PDF Pitfalls
 ---
 # Mueller Report
 Three part series from the PDF Association
@@ -15,11 +15,18 @@ Three part series from the PDF Association
 3. [DoJ reposts the Mueller Report!](https://pdfa.org/doj-reposts-the-mueller-report/)
 2019-04-23
 ---
-# Terms & Points
+# Terms
 * born digital: text or data initially created in digital format
 * redaction: removing context from a document
 * optical character recognition (OCR): software that extracts texts from images
-   * Running OCR software doesn't make the report completely searchable
 * [section 508](https://www.section508.gov/) of the Rehabilitation Act
    * Fed. IT must be accessible to the disabled
-* [more extensive analysis](https://www.linkedin.com/pulse/learning-from-mueller-report-pdf-13-ideas-document-martin-nikel/) 
+
+---
+# Links
+* [more extensive analysis](https://www.linkedin.com/pulse/learning-from-mueller-report-pdf-13-ideas-document-martin-nikel/), worth a read 
+
+---
+# Exercises
+1. Does the metadata in the newer PDF, which we downloaded, indicate that it is PDF/A compliant?
+2. Do some of the searchability issues in the early PDFs versions still exist in the newer PDF?
