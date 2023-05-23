@@ -90,3 +90,8 @@ Resolving deltas: 100% (60/60), done.
 
 ---
 # Exercises
+For each exercise, provide a single command that produces the stated results: 
+1. List all the files in the `archiving-digital-records` directory and its subdirectories.
+2. Repeat (1) but include hidden files and directories.
+3. List all the markdown files in `archiving-digiral-records` beginning with 0.
+4. List all the markdown files (3) in long format ordered by the time of their last modification.
