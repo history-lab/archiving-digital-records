@@ -24,7 +24,7 @@ paginate: true
 
 ---
 # Installing software 
-Note: the exact commands for installing software differ somewhat across OSs 
+Note: the exact commands for installing software differ somewhat across operating systems 
 
 1. Type on the command line and press return:
 `sudo apt-get update`
@@ -94,6 +94,6 @@ PDF version:    1.7
 
 2. How can we ensure output generated from `pdftotext` goes to the `txt` directory in the future?
 
-3. Test some flags on both `pdfinfo` and `pdftotext`. Find something worth discussing.
+3. Test some flags on both `pdfinfo` and `pdftotext`. Find anything interesting?
 
 4. Load another PDF into codespace - something that interests you. Run both `pdfinfo` and `pdftotext`. How's the text quality? 
