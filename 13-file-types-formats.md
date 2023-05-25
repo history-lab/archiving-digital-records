@@ -54,10 +54,8 @@ paginate: true
 ---
 # Determining File Type 
 * `file <filename>`
-* examples
-```
-
-```
+* `file mueller.pdf`
+* `file mueller.txt`
 
 
 
