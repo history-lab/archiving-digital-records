@@ -21,10 +21,10 @@ paginate: true
 # Key characteristics
 * "Just in time" analysis
 * Extensive range of text analysis tools
-* Supports a range of corpora size & file formats
+* Supports a range of corpora sizes & file formats
 * **Fantastic** built-in help
 * Lower the barrier of entry to text analytics
-* Embed & export optins
+* Embed & export options
 ---
 # Availability
 * Free hosted version available via [website](https://voyant-tools.org/)
@@ -37,7 +37,7 @@ paginate: true
 Point browser at https://voyant-tools.org/ and 
 1.  paste URL(s) into the text box
 2.  paste text into the main text box
-3.  upload files from computer
+3.  upload files from your computer
 4.  open a pre-loaded corpus
 ---
 # File formats supported
@@ -52,13 +52,13 @@ Point browser at https://voyant-tools.org/ and
 # Default Skin
 * What you see after you load your corpus
 * skin = collection of tools
-* tools in default skin
+* Tools in the default skin:
     * Cirrus: word cloud
     * Reader: corpus reader
-    * Trends: term frequency across the compass
+    * Trends: term frequency across the corpus
     * Summary: corpus stats
     * Contexts: shows terms in context (concordances)
-* tools can be swapped on/off the skin
+* You can swap tools on/off the skin
 ---
 
 # Embedding and Exporting
@@ -73,9 +73,9 @@ Point browser at https://voyant-tools.org/ and
 
 2. Upload a document or corpus of your choosing into Voyant. Any interesting discoveries?
 
-3. Add a new tool that interests you into the default skin. You can find a listing of the tools [here](https://voyant-tools.org/docs/#!/guide/tools).
+3. Add a new tool that interests you into the default skin. You can find a listing [here](https://voyant-tools.org/docs/#!/guide/tools).
 
-4. Export a iframe, URL, data or a visualization from one of the tools and use it one of your every day tools.
+4. Export an iframe, URL, data, or visualization Voyant and use it in a tool you frequently use (e.g., word processing, spreadsheet, slides, blog).
 ---
 # References
 * [Online documentation](http://docs.voyant-tools.org/docs/#!/guide)
