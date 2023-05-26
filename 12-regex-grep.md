@@ -33,3 +33,22 @@ paginate: true
 * `prince.*`: all strings starting with prince
 * `(love|hate|whatever)`: matches "love", "hate", or "whatever"
 * `s[ck]eptic. *`: matches different spellings and endings of sceptic
+----
+# Where can you use regex? 
+* on the command line
+* programming languages 
+* editors
+* other tools
+----
+# grep
+* command line utility that operates on plain text files
+* search file(s) via regex
+* returns records that match regex
+* originally stood for "global regular expresson print"
+* first application: Federalist Papers authorship 
+* [history of grep](https://www.youtube.com/watch?v=NTfOnGZUZDk), Brian Kernighan
+---
+# grep examples
+* `grep sql mueller.txt` search for string 'sql' 
+* `grep -i sql mueller.txt` case insensitive
+* `grep -i -B 10 sql mueller` matching line and ten preceding lines 
