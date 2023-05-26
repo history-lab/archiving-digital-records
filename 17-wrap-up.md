@@ -46,6 +46,6 @@ ocrmypdf sv600_m_normal.pdf ocred.pdf
 # NER
 * [Code example](https://colab.research.google.com/github/NukeAce/HNG-named-entity-recognition/blob/master/Named_entity_recognition_using_spacy_model.ipynb#scrollTo=4zSSlTgxLAwK)
 ---
-# Adding metadata
-
-
+# Adding metadata to PDFs
+* [GitHub repo](https://github.com/benjlis/add-pdfmeta)
+* also in codespace
