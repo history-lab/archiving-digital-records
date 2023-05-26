@@ -14,10 +14,10 @@ paginate: true
 * Pattern matching: can match a set of strings
 ---
 # Regular Expression (regex)
-* sequence of characters that specify a match pattern
+* a sequence of characters that specify a match pattern
 * each character in the regex is either a literal character or a metacharacter
   * literal character: exact match
-  * metacharacter: a character with special meeting
+  * metacharacter: a character with a special meaning
 ---
 # Regex Metacharacters
 *  vertical bar for or: `gray|grey` matches "gray" or "grey"
@@ -44,7 +44,7 @@ paginate: true
 * command line utility that operates on plain text files
 * search file(s) via regex
 * returns records that match regex
-* originally stood for "global regular expresson print"
+* originally stood for "global regular expression print"
 * first application: Federalist Papers authorship 
 * [history of grep](https://www.youtube.com/watch?v=NTfOnGZUZDk), Brian Kernighan
 ---
