@@ -43,7 +43,7 @@ paginate: true
 * Motivation/Goal
 ---
 # Objectives for Technical Sessions
-1. Gain PDF background knowledge
+1. Gain PDF knowledge
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
 4. Extract text from PDFs and apply text analytics
