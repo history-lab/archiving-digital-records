@@ -9,7 +9,7 @@ paginate: true
 # Archives as Data 2024
 ## Archiving Digital Records Workshop
 ---
-# Thanks to our ...
+# Thanks to our
 * sponsor: 
   * [NEH Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities)
 
