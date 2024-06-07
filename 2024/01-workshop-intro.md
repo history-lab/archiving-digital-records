@@ -18,7 +18,7 @@ paginate: true
   * [History Lab](http://history-lab.org)  
 ---
 # Orientation
-* wifi: [Columbia University (Unsecure)](https://www.cuit.columbia.edu/cuit-wireless-network#:~:text=WiFi%20access%20is%20available%20to,option%20%E2%80%9CColumbia%20U%20Secure%E2%80%9D).
+* wifi: `Columbia University`
 * restrooms
 * location
    * Lehman Suite, 406 International Affairs Building 
@@ -43,13 +43,13 @@ paginate: true
 * Motivation/Goal
 ---
 # Objectives for Technical Sessions
-1. Learn more about PDFs
+1. Gain PDF background knowledge
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
-4. Extract text form docs and apply text analytics
-5. Become a more effective contributor to DH/IT projects
+4. Extract text form PDFs and apply text analytics
+5. Become a more effective team member DH/IT projects
    * DH = digital humanities
-6. Be more willing to try DIY 
+6. Be more willing to try DIY projects
 7. Gain awareness of shortcomings & pitfalls
 ---
 # Target Processing Workflow
