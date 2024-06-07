@@ -46,8 +46,8 @@ paginate: true
 1. Gain PDF background knowledge
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
-4. Extract text form PDFs and apply text analytics
-5. Become a more effective team member DH/IT projects
+4. Extract text from PDFs and apply text analytics
+5. Become a more effective team member on DH/IT projects
    * DH = digital humanities
 6. Be more willing to try DIY projects
 7. Gain awareness of shortcomings & pitfalls
