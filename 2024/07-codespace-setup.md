@@ -9,15 +9,17 @@ paginate: true
 # Codespace setup
 ---
 # Creating your codespace
-1. Point your browser at the [codespaces dashboard](https://github.com/codespaces)
-2. In *Explore quick start templates* press the "Use this template" button for the *blank* template
-3. A new browser tab will open with a new, blank codespace 
+1. Point your browser at https://github.com/codespaces
+2. In *Explore quick start templates* press the "Use this template" button for the *Blank* template
+3. A new browser tab will open with a new codespace
+4. Chose an editor color theme of your liking 
 ---
 # Renaming and saving your codespace
 1. Return to the codespaces dashboard tab
 2. In *Owned by*, press the menu button `...` for the newly created codespace and select "Rename"
 3. Choose a more suitable name (e.g., Archiving-Digital-Records)
-4. Go back to the menu and select "Keep Codespace"
+4. [Optional] Go back to the menu and uncheck "Autodelete Codespace"
+   * Otherwise, a codespace will be autodeleted after 30 days of inactivity
 ---
 # Accessing the command line
 1. Return to the codespace tab
