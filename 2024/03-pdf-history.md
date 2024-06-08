@@ -26,7 +26,7 @@ paginate: true
 * Why not use PostScript?
    * Too resource-consumptive for the typical 90s personal computer!
 * [Reference](https://www.pdfa.org/norm-refs/warnock_camelot.pdf) John Warnock's project description
-
+* [Beyond Camelot: The Story of PDF](https://www.youtube.com/watch?v=J5PKmZvfaVE) upcoming documentary
 ---
 # PDF vs. PostScript
 * All PDFs are PostScript files
