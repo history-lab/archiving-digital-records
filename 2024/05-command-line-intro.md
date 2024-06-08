@@ -14,7 +14,7 @@ paginate: true
 ### But why?
 ---
 # Reasons to learn the command line
-* Access to software only available on the command line
+* Access to software that is only available on the command line
 * Gain access to powerful capabilities:
      * process N files as easily as one
      * run a sequence of programs as easily as one
@@ -24,14 +24,14 @@ paginate: true
 ---
 # OK, what is the command line?
 * Textual interface to the computer
-* User inputs commands via keyboard and receives text output
+* The user inputs commands via keyboard and receives text output
 * "command line" and "terminal" are used interchangeably
 
 ![height:256px width:384px](static/command-line.png)
 
 ---
 # Shell
-* Program that provides the command line
+* The program that provides the command line
 * Interface between the user and operating system
 
 ![height:384px width:288px](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgL8vVGby133vx9tQBjKyZ24VdkDrnlNdWRdwRg6EBjCYHzaa5ckhI7up6YthQAal7Yag&usqp=CAU)
@@ -44,18 +44,17 @@ paginate: true
    * most popular shell
    * available on Windows/Mac/Linux 
 ---
-# Your notebook and the command line
-* You can access the command line on your notebook
+# Your laptop and the command line
+* You can access the command line on your laptop
 * Differences (typically minor) across platforms and versions
 * Different notebooks: different memory, disk space, SW versions
-* Good chance of idiosyncratic issues arising 
-     * especially when installing software
+* Leads to an excellent chance of idiosyncratic issues arising 
 * Impairs the initial learning experience
 ---
 # GitHub Codespaces for the exercises
 * Eliminates issues described on the previous slide 
 * Everybody gets an individual but identical environment
-* Don't need to install SW on notebook
+* Don't need to install SW on laptop
 * Get exposure to GitHub and cloud computing
 * Gateway to further training with [LinkedIn Learning](https://www.linkedin.com/learning/topics/hands-on-practice-with-github-codespaces)
 * Friday, you'll get a chance to install the tools on your notebook
