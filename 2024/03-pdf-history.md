@@ -16,17 +16,17 @@ paginate: true
 * Postscript - page description language (PDL)
     * describes what to print
     * full programming language
-* Desktop publishing revolution is born
-* [Interesting read](https://computerhistory.org/blog/postscript-a-digital-printing-press/) on this period
+* The desktop publishing revolution is born
+* An [interesting read](https://computerhistory.org/blog/postscript-a-digital-printing-press/) on this period
 ---
 # Early History: Camelot Project (1990)
 * PDF conceived
 * Goal: to exchange formatted documents between computers
    * "...to view a file precisely—down to the pixel, essentially, of what the author had intended" - John Wulff, Adobe
 * Why not use PostScript?
-   * Too resource-consumptive for the typical 90s personal computer!
+   * It is too resource-consumptive for the typical 90s personal computer!
 * [Reference](https://www.pdfa.org/norm-refs/warnock_camelot.pdf) John Warnock's project description
-* [Beyond Camelot: The Story of PDF](https://www.youtube.com/watch?v=J5PKmZvfaVE) upcoming documentary
+* [Beyond Camelot: The Story of PDF](https://www.youtube.com/watch?v=J5PKmZvfaVE) is an upcoming documentary
 ---
 # PDF vs. PostScript
 * All PDFs are PostScript files
