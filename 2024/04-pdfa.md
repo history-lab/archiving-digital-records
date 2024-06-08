@@ -32,7 +32,7 @@ It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt
 - Presentation Formats (slide decks)
 ---
 # The National Archives & Paper
-By July 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
+By July 1st 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
 
 ---
 # Library of Congress & PDF/A
@@ -75,7 +75,6 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
         * ABBYY FineReader PDF
     * [Ghostscript](https://www.ghostscript.com/index.html): open source
     * Word (version dependent - not Mac!)
-* You can always validate
 ---
 # Validating PDF/A documents
 * Checking to see if a document is PDF/A compliant
@@ -85,6 +84,11 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
     * funded by European Commission, industry supported
 * Adobe Acrobat Pro
 * Query metadata (not guaranteed)
+---
+# Converting PDF to PDF/A documents
+* Adobe Acrobat Pro
+* Ghostscript
+* Other open source and commercial options
 ---
 <!-- _class: lead -->
 # Related PDF Standards Work
@@ -111,4 +115,3 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 # Discussion
 * PDF/A in your institution
 * PDF/A personal experiences
-
