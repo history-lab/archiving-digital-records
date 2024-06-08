@@ -10,7 +10,7 @@ paginate: true
 ---
 # Creating your codespace
 1. Point your browser at https://github.com/codespaces
-2. In *Explore quick start templates* press the "Use this template" button for the *Blank* template
+2. In *Explore quick start templates*, press the "Use this template" button for the *Blank* template
 3. A new browser tab will open with a new codespace
 4. Chose an editor color theme of your liking 
 ---
@@ -19,7 +19,7 @@ paginate: true
 2. In *Owned by*, press the menu button `...` for the newly created codespace and select "Rename"
 3. Choose a more suitable name (e.g., Archiving-Digital-Records)
 4. [Optional] Go back to the menu and uncheck "Autodelete Codespace"
-   * Otherwise, a codespace will be autodeleted after 30 days of inactivity
+   * Otherwise, GitHub will delete the codespace after 30 days of inactivity
 ---
 # Accessing the command line
 1. Return to the codespace tab
@@ -28,5 +28,5 @@ paginate: true
 ---
 # Codespace Timeout & Stopping
 1. Automatically times out after 30 minutes of inactivity
-    * So, you don't need to worry about stopping
+    * So you don't need to worry about stopping
 2. You can explicitly stop using a codespace on the `...` menu in _Owned by_
