@@ -14,11 +14,11 @@ paginate: true
 * Full replacement for paper
 ---
 # Why PDF/A?
-### Goal: long-term reproducibility
-* View regardless of SW/HW/platform changes
-* No file conversions are required at a later date
-* Make documents future proof
-### $\rightarrow$ document must be self-contained
+## Goal: long-term reproducibility
+* View original document regardless of SW/HW/platform changes
+* No need to convert a PDF/A document at a later date
+* A PDF/A document is future-proof
+## $\rightarrow$ A PDF/A document must be self-contained
 * PDF/A is a subset of PDF
 ---
 <!-- _class: lead -->
@@ -32,8 +32,7 @@ It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt
 - Presentation Formats (slide decks)
 ---
 # The National Archives & Paper
-By July 1st 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
-
+By July 1st, 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
 ---
 # Library of Congress & PDF/A
 It's a [preferred or accepted file format](https://www.loc.gov/preservation/resources/rfs/TOC.html) for:
@@ -54,8 +53,8 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
 ---
 # PDF/A requires certain optional PDF features
 * Standards-based metadata
-* Fonts must be embedded and without IP concerns
-* Colorspces must be specified in a device-independent manner
+* Embedded fonts without IP restrictions
+* Device-independent color specifications
 ---
 # PDF/A versions
 | version | published | ISO number | PDF version |
@@ -81,14 +80,14 @@ It's a [preferred or accepted file format](https://www.loc.gov/preservation/reso
     * version and conformance level checks
 * [veraPDF](https://verapdf.org/home/) 
     * open source
-    * funded by European Commission, industry supported
+    * funded by the European Commission, industry-supported
 * Adobe Acrobat Pro
 * Query metadata (not guaranteed)
 ---
 # Converting PDF to PDF/A documents
 * Adobe Acrobat Pro
 * Ghostscript
-* Other open source and commercial options
+* Other open-source and commercial options
 ---
 <!-- _class: lead -->
 # Related PDF Standards Work
