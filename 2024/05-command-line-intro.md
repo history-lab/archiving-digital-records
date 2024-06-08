@@ -64,5 +64,5 @@ paginate: true
 * Sign up for a GitHub account [here](https://github.com/join) if you don't already have one
 * (Optional) If you haven't already signed up for access to one of:
     * chatGPT
-    * Bing Chat
-    * Google Bard
+    * Google Gemini
+    * Microsoft Edge Copilot
