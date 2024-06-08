@@ -8,18 +8,12 @@ paginate: true
 <!-- _class: lead -->
 # Why PDFs?
 ---
-<!-- _class: lead -->
+
 # Motivating questions
----
-# Question 1
-* What does PDF stand for?
----
-# Question 2
-* What do you think of when you think PDF?
+1. What does PDF stand for?
+2. What do you think of when you think PDF?
     * List the attributes and characteristics of PDFs (2 minutes)
----
-# Question 3
-* How many PDFs are in existence?
+3. How many PDFs are in existence?
     * Rough guess
 ---
 <!-- _class: lead -->
@@ -56,6 +50,3 @@ paginate: true
     * 18 billion PDF documents in DropBox
     * 73 million new PDF documents each day in Google Drive and Mail
 * 1/3 of PDFs are scanned documents! 
-
-
-
