@@ -31,8 +31,7 @@ Your own virtual computer running in the cloud with a browser-based interface co
 # Codespace Requirements
 * Free GitHub account
 * Codespace is free for personal accounts with up to 15 GB storage and 120 processor hours
-    * shuts down automatically after a period of disuse
-
+    * shuts down automatically after an idle period
 ---
 # So, what is GitHub?
 In addition to Codespaces, which is a fairly new and small part of GitHub - 
@@ -45,4 +44,3 @@ In addition to Codespaces, which is a fairly new and small part of GitHub -
 * Open-source version control software
 * Predates GitHub and not initially developed by them
 * But without Git, there would be no GitHub
-
