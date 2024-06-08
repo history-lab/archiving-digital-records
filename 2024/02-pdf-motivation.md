@@ -28,15 +28,15 @@ paginate: true
 # Ben's List 
 * 21st-century paper
 * Used for final versions, statements & legal contracts
-* Document fidelity, preserves the original layout, formatting, and fonts
+* Document fidelity: preserves the original layout, formatting, and fonts
 * Cross-platform compatibility, the document looks the same everywhere
-* Most common digital format for archived text documents
+* The most common digital format for archived text documents
 * Adobe $\rightarrow$ ISO
 * Data extraction challenges 
 ---
 # Number of PDFs in existence
 * Nobody knows for sure
-* Most widely cited estimate: 2.5 Trillion
+* The most widely cited estimate: 2.5 Trillion
     * Conservative back-of-the-envelope calculation
 * Source: Phil Ydens, Fellow and VP @ Adobe (2015 talk)
     * 2015 keynote talk (https://www.youtube.com/watch?v=5Axw6OGPYHw), starting at 19:40
@@ -46,7 +46,7 @@ paginate: true
 * 60% of non-image Outlook attachments are PDFs
 * Cloud storage providers
     * PDF is the most popular format
-    * Many cases, PDF > 50% of files stored
+    * In many cases, PDF > 50% of files stored
     * 18 billion PDF documents in DropBox
     * 73 million new PDF documents each day in Google Drive and Mail
 * 1/3 of PDFs are scanned documents! 
