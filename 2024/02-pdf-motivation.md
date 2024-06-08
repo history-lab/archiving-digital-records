@@ -38,8 +38,8 @@ paginate: true
 * Nobody knows for sure
 * The most widely cited estimate: 2.5 Trillion
     * Conservative back-of-the-envelope calculation
-* Source: Phil Ydens, Fellow and VP @ Adobe (2015 talk)
-    * 2015 keynote talk (https://www.youtube.com/watch?v=5Axw6OGPYHw), starting at 19:40
+* Source: Phil Ydens, Fellow and VP @ Adobe
+    * [2015 keynote talk](https://www.youtube.com/watch?v=5Axw6OGPYHw), starting at 19:40
 ---
 # Other PDF factoids from Ydens (2015)
 * 1.6 billion PDF documents on the web
