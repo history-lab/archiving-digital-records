@@ -12,7 +12,7 @@ paginate: true
 # What is GitHub Codespaces?
 A cloud-based software development environment
 ### Alternate definition for our workshop -
-Your own virtual computer running in the cloud with a browser-based interface consisting of:
+Your virtual computer running in the cloud with a browser-based interface consisting of:
 * a command line (terminal) 
 * an editor
 * a file system 
@@ -34,8 +34,8 @@ Your own virtual computer running in the cloud with a browser-based interface co
     * shuts down automatically after an idle period
 ---
 # So, what is GitHub?
-In addition to Codespaces, which is a fairly new and small part of GitHub - 
-* **Original and main function:**  platform for storing, distributing, collaborating on, and deploying code
+In addition to Codespaces, which is a relatively new and small part of GitHub - 
+* **Original and primary function:**  platform for storing, distributing, collaborating on, and deploying code
 * Developer-oriented social media network
 * [Website Hosting](https://pages.github.com/)
 * [GitHub Commercial](https://www.youtube.com/watch?v=pBy1zgt0XPc) - they try to explain themselves
