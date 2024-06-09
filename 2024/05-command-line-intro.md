@@ -48,17 +48,17 @@ paginate: true
 * You can access the command line on your laptop
 * Differences (typically minor) across platforms and versions
 * Different notebooks: different memory, disk space, SW versions
-* Leads to a high chance of idiosyncratic issues arising 
+* Raise the chance of idiosyncratic issues arising 
 * Impairs the initial learning experience
 ---
 # GitHub Codespaces for the exercises
 * Eliminates issues described on the previous slide 
 * Everybody gets an individual but identical environment
-* Don't need to install SW on laptop
+* You don't need to install SW on your laptop
 * Get exposure to GitHub and cloud computing
 * Gateway to further training with [LinkedIn Learning](https://www.linkedin.com/learning/topics/hands-on-practice-with-github-codespaces)
 * Free for up to forty hours a month
-* Friday, you'll get a chance to install the tools on your notebook
+* Friday, you'll get a chance to install the tools on your laptop
 ---
 # Tasks
 * Sign up for a GitHub account [here](https://github.com/join) if you don't already have one
