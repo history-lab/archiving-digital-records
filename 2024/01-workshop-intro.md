@@ -62,8 +62,8 @@ paginate: true
 ![height:480px width:640px](./static/target-processing-workflow.png)
 
 ---
-# Technical Sessions: Pls keep in mind
+# Points to keep in mind
 * 2nd time giving this workshop
 * Active, point-in-time participation welcome
 * The firehose
-* Ben is not an archivist or historian. He's a technical person
+* Ben's a technical person, not an archivist or historian
