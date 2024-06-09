@@ -28,13 +28,13 @@ Resolving deltas: 100% (60/60), done.
 * repo contains the latest version of files but also all previous versions
 * `clone` a git command that you can think of as "copy files + tracking info"
 ---
-### Navigating the filesystem using Explorer & Editor
+# Navigating the filesystem using Explorer & Editor
 1. Click on `08-command-line-lab-1.md` in the `2024` folder
 2. Review the "code" for the slide
 3. Click on `Open Preview to the Side` - upper RHS of the editor window
 4. Control (right) click on a filename to see actions
 ---
-### Navigating the filesystem from the command line
+# Navigating the filesystem from the command line
 1. The terminal's current working directory is part of the command line prompt
     * You can also use the `pwd` command to see it
 2. List the files in a directory: `ls`
