@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - invert
 paginate: true
@@ -30,7 +30,7 @@ Your virtual computer running in the cloud with a browser-based interface consis
 ---
 # Codespace Requirements
 * Free GitHub account
-* Codespace is free for personal accounts with up to 15 GB storage and 120 processor hours
+* Codespace is free for personal accounts with up to 15 GB storage and 60 hours of runtime
     * shuts down automatically after an idle period
 ---
 # So, what is GitHub?
