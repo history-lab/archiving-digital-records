@@ -11,10 +11,10 @@ paginate: true
 
 # Motivating questions
 1. What does PDF stand for?
-2. What do you think of when you think PDF?
-    * List the attributes and characteristics of PDFs (2 minutes)
-3. How many PDFs are in existence?
-    * Rough guess
+2. How many PDFs are in existence? (rough guess)
+3. What do you think of when you think PDF?
+    * List the attributes and characteristics of PDFs
+4. What do you do with PDFs in your work?
 ---
 <!-- _class: lead -->
 # Answers (No Peeking, please!)
@@ -24,15 +24,6 @@ paginate: true
 * Adobe [video](https://youtu.be/Cz55qjW-0bU)
 * file format
 * goal: faithfully reproduce documents across HW/SW/OS
----
-# Ben's List 
-* 21st-century paper
-* Used for final versions, statements & legal contracts
-* Document fidelity: preserves the original layout, formatting, and fonts
-* Cross-platform compatibility, the document looks the same everywhere
-* The most common digital format for archived text documents
-* Adobe $\rightarrow$ ISO
-* Data extraction challenges 
 ---
 # Number of PDFs in existence
 * Nobody knows for sure
@@ -50,3 +41,20 @@ paginate: true
     * 18 billion PDF documents in DropBox
     * 73 million new PDF documents each day in Google Drive and Mail
 * 1/3 of PDFs are scanned documents! 
+---
+# Think of PDFs as (Ben's list) 
+* 21st-century paper
+* Used for final versions, statements & legal contracts
+* Document fidelity: preserves the original layout, formatting, and fonts
+* Cross-platform compatibility, the document looks the same everywhere
+* The most common digital format for archived text documents
+* Adobe $\rightarrow$ ISO
+* Data extraction challenges 
+---
+# Things I do with PDFs (Ben's List)
+* Read them, like everybody else!
+* Extract metadata
+* Extract text
+* Identify and redact PII
+  * PII = personally identifiable information
+* Organize in a database
