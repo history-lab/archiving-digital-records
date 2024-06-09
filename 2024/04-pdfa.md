@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - invert
 paginate: true
@@ -33,6 +33,7 @@ It's a [preferred or accepted file format](https://www.archives.gov/records-mgmt
 ---
 # The National Archives & Paper
 By July 1st, 2024, Federal agencies must transfer *all* permanent records in electronic format with metadata.
+
 ---
 # Library of Congress & PDF/A
 It's a [preferred or accepted file format](https://www.loc.gov/preservation/resources/rfs/TOC.html) for:
