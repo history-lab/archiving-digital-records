@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - invert
 paginate: true
@@ -32,7 +32,7 @@ paginate: true
 * 01:00 PM-02:00 PM: Discussion with speaker
 * 02:00 PM-03:00 PM: Lab or reading discussion
 ---
-# Daily Schedule (Week 2)
+# Daily Schedule (Week 2 - Remote)
 * 12:00 PM-01:00 PM: Lunch & Speaker
 * 01:00 PM-02:00 PM: Discussion with speaker
 ---
@@ -42,13 +42,19 @@ paginate: true
 * Affiliation
 * Motivation/Goal
 ---
+# Lightning Talks
+* Participants speak on a topic of interest
+  e.g., research, project, organization
+* ~5 minutes
+* Tuesday @ 2:00 PM
+* Optional but encouraged
+---
 # Objectives for Technical Sessions
 1. Gain PDF knowledge
 2. Get comfortable with the command line
 3. Introduced to text analytics tools
 4. Extract text from PDFs and apply text analytics
 5. Become a more effective team member on DH/IT projects
-   * DH = digital humanities
 6. Be more willing to try DIY projects
 7. Gain awareness of shortcomings & pitfalls
 ---
