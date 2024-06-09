@@ -23,9 +23,9 @@ Resolving deltas: 100% (60/60), done.
 ```
 ---
 # Understanding what we just did
-* `git` tracks collections of files, usually project related
+* `git` tracks collections of files, usually project-related
 * repo (aka repository): a collection of files under git control
-* repo contains the latest version of files, but also all previous versions
+* repo contains the latest version of files but also all previous versions
 * `clone` a git command that you can think of as "copy files + tracking info"
 ---
 ### Navigating the filesystem using Explorer & Editor
@@ -36,7 +36,7 @@ Resolving deltas: 100% (60/60), done.
 ---
 ### Navigating the filesystem from the command line
 1. The terminal's current working directory is part of the command line prompt
-    * use can also use the `pwd` command to see it
+    * You can also use the `pwd` command to see it
 2. List the files in a directory: `ls`
 3. See more details: `ls -l`
 ---
@@ -62,7 +62,7 @@ Resolving deltas: 100% (60/60), done.
 # Command flag
 * Example: `-l` in `ls -l` 
 * Modify default command behavior
-* Enable/disable a particular feature
+* Turn a particular command feature on or off
 * Begins with a `-`
 * Sometimes called an option
 ---
@@ -89,4 +89,4 @@ Resolving deltas: 100% (60/60), done.
 For each exercise, provide a single command that produces the stated results: 
 1. List all the files in the `archiving-digital-records` directory and its subdirectories.
 2. List all the markdown files in `archiving-digital-records/2024` beginning with the number 0.
-3. Repeat (3) but in long format ordered by their last modification.
+3. Repeat (2) but in a long format ordered by their last modification.
