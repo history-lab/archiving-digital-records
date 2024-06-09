@@ -43,8 +43,7 @@ paginate: true
 * Motivation/Goal
 ---
 # Lightning Talks
-* Participants speak on a topic of interest
-  e.g., research, project, organization
+* You speak on a topic of interest
 * ~5 minutes
 * Tuesday @ 2:00 PM
 * Optional but encouraged
@@ -63,7 +62,7 @@ paginate: true
 
 ---
 # Points to keep in mind
-* 2nd time giving this workshop
+* Second time giving this workshop
 * Active, point-in-time participation welcome
 * The firehose
 * Ben's a technical person, not an archivist or historian
