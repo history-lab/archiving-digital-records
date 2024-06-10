@@ -16,7 +16,7 @@ paginate: true
 # Recommended for follow-on study
 * Command line, git & regex believers
     * Exercises & answers
-    * Recipies
+    * Recipes
 * Project management
 * Discuss bigger questions in digital history
     * e.g., Formulating your research question
