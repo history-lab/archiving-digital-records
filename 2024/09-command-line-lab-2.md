@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - invert
 paginate: true
@@ -20,7 +20,7 @@ paginate: true
 
 *  To download the Mueller Report PDF from the DOJ website, type this on the command line and press return:
 
-`curl -o mueller.pdf https://www.justice.gov/archives/sco/file/1373816/download`
+`curl -o mueller.pdf https://www.justice.gov/archives/sco/file/1373816/dl`
 
 ---
 # Installing software 
