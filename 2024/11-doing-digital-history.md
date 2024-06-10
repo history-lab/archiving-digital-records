@@ -1,12 +1,12 @@
 ---
 marp: true
-theme: gaia
+theme: default
 class:
   - invert
 paginate: true
 ---
 <!-- _class: lead -->
-# Doing digital history
+# Doing Digital History
 
 ---
 ![height:512px width:320px](https://www.biblioimages.com/mup/getimage.aspx?class=books&assetversionid=284249&cat=default&size=largeweb&id=11042)
@@ -16,9 +16,10 @@ paginate: true
 # Recommended for follow-on study
 * Command line, git & regex believers
     * Exercises & answers
-    * Recipies
+    * Recipes
 * Project management
 * Discuss bigger questions in digital history
+    * e.g., Formulating your research question
 * Excellent glossary & references
 * Good coverage of OCR issues
 ---
