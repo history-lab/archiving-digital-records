@@ -9,7 +9,6 @@ paginate: true
 # regex & grep
 ---
 # Text Matching
-* What we do when we use the find command
 * Exact matching: matches a single string
 * Pattern matching: can match a set of strings
 ---
