@@ -50,4 +50,4 @@ paginate: true
 # grep examples
 * `grep sql mueller.txt` search for string 'sql' 
 * `grep -i sql mueller.txt` case insensitive
-* `grep -i -B 10 sql mueller` matching line and ten preceding lines 
+* `grep -i -B 10 sql -A 10 mueller.txt` matching line and ten preceding lines 
