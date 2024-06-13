@@ -51,3 +51,9 @@ paginate: true
 * `grep sql mueller.txt` search for string 'sql' 
 * `grep -i sql mueller.txt` case insensitive
 * `grep -i -B 10 sql -A 10 mueller.txt` matching line and ten lines before and after 
+---
+# redaction count examples
+* `grep 'Harm to Ongoing Matter' mueller.pdf`
+* `grep -c 'Harm to Ongoing Matter' mueller.txt`
+* `grep -Ec 'Harm to Ongoing|HOM'  mueller.txt`
+* `grep -c 'Personal Privacy' mueller.txt`
