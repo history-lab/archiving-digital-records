@@ -1,2 +1,2 @@
-# Archiving Digital Records - 
-Course materials for the Summer '23 Archiving Digital Records track of Archives as Data
+# Archiving Digital Records
+Course materials from the 2023 & 2024 Archiving Digital Records track of the Archives as Data Summer Institute.
